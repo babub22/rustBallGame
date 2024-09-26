@@ -1,0 +1,8 @@
+[package]
+name = "rust_test_game"
+crate-type = ["staticlib", "cdylib"]
+
+[dependencies]
+raylib = "5.0"
+rand = "0.8.3"
+
